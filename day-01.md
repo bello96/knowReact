@@ -152,7 +152,7 @@ const loadData = () => {
 ```js
 const h1 = (
   <h1 style={{ color: 'red', fontSize: 30, backgroundColor: 'hotpink' }}>
-    我变大了
+    我变大了啊
   </h1>
 )
 ```
